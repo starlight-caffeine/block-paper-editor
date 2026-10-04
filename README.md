@@ -1,10 +1,15 @@
 # Block Paper Editor
 
-## TODO
+## Roadmap
 
-### Features
-
-- [ ] UI Scaffolding
+- [ ] UI scaffolding
+- [ ] Storage Backend
+- [ ] Typst compilation
+- [ ] PDF viewing
+- [ ] Bibliography management
+- [ ] Block based editing
+- [ ] Collaboration
+- [ ] Typst Templates
 
 ## Commit message guidelines
 
