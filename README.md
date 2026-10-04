@@ -2,4 +2,4 @@
 
 # TODO
 ## Features
-[ ] UI Scaffolding
+[] UI Scaffolding
