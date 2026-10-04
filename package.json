@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "antd": "^6.6.5",
     "preact": "^10.29.8"
   },
   "devDependencies": {
